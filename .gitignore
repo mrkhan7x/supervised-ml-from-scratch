@@ -1,0 +1,6 @@
+# Model files
+*.pkl
+
+# Python caches
+__pycache__/
+*.pyc
