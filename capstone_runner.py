@@ -3,7 +3,7 @@
 =====================================================================
 🏆 Course 1 Capstone Project: Housing Price & Deal Quality Predictor
 =====================================================================
-Author: Muhammad Roman Khan (Romeo)
+Author: Muhammad Roman Khan
 Repository: Course 1 (Supervised ML - Regression & Classification) Capstone
 
 Description:
