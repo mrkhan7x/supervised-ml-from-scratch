@@ -3,7 +3,7 @@
 =====================================================================
 🏆 FastAPI Model Serving Server
 =====================================================================
-Author: Muhammad Roman Khan (Romeo)
+Author: Muhammad Roman Khan
 Repository: Course 1 Capstone Deployment API
 
 Description:
