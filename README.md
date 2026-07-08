@@ -1,4 +1,4 @@
-# 🏆 Course 1 Master Revision Guide & Capstone Project
+# ML By Andrew NG Course 1 Project 
 
 This document serves as your ultimate theoretical reference and checklist for Course 1 (Supervised Machine Learning: Regression and Classification). It maps out the mathematics, first-principles logic, and system configurations required to complete the capstone project.
 
